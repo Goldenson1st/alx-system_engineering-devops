@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /tmp/iamafile
+file /tmp/iamafile
